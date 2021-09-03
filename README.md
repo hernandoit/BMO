@@ -2,7 +2,7 @@
 ## Be MOre
 BMO (abbreviated from "Be MOre," phonetically spelled "Beemo", also referred to as Moe Mastro "Llabtoof" Giovanni Jr. and called the "New King of Ooo" in the future) is one of the main characters of Adventure Time and also the titular main protagonist of the Distant Lands episode of the same name.
 
-### `Preparation`
+### `Setup Steps`
 1. Fork and clone this repository into your projects location 
    - `git clone git@github.com:<your github account name here>/react-material-design.git`
 2. Create a new branch, and name it after your project. 
